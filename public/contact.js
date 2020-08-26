@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{79:function(n,t,e){"use strict";e.r(t);var c={mounted:function(){console.log("contact LOADED.")}},o=e(0),s=Object(o.a)(c,(function(){var n=this.$createElement;return(this._self._c||n)("div",{staticClass:"container"},[this._v("\n    CONTACT\n")])}),[],!1,null,null,null);t.default=s.exports}}]);

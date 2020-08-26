@@ -1,0 +1,13 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/about.js": "/about.js",
+    "/contact.js": "/contact.js",
+    "/create_post.js": "/create_post.js",
+    "/home.js": "/home.js",
+    "/login.js": "/login.js",
+    "/post_update.js": "/post_update.js",
+    "/product.js": "/product.js",
+    "/single_post.js": "/single_post.js",
+    "/user.js": "/user.js"
+}
